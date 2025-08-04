@@ -9,6 +9,7 @@ Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y
 - Eres libre de realizarla como gustes, porfavor seguir las reglas del torneo para no ser descalificado
 
 ## Reglas Generales 👮🏻‍♂️
+- Las Bases del torneo se encuentran en : https://github.com/Antihackathon-Worst-UI-UX/antihackathon-template
 - No se permite contenido ofensivo, violento, racista, sexista, xenofóbico, homofóbico o irrespetuoso 😾
 - Solo puedes usar este repositorio para tu proyecto
 - Modificar solo el README para presentar el link donde alojes tu UI
